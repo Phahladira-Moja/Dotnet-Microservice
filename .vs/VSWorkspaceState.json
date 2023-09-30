@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CommandsService",
+    "\\CommandsService\\CommandsService",
+    "\\K8S",
+    "\\PlatformService",
+    "\\PlatformService\\PlatformService"
+  ],
+  "SelectedNode": "\\PlatformService\\PlatformService\\Dockerfile",
+  "PreviewInSolutionExplorer": false
+}
