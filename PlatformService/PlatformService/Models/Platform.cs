@@ -4,7 +4,7 @@ namespace PlatformService.Models
 {
     public class Platform
     {
-        [Key] // For entity framework to give it context
+        [Key]
         public int Id { get; set; }
 
         [Required]

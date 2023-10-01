@@ -85,6 +85,7 @@ C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\PlatformService\PlatformService
 C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\PlatformService\PlatformService\obj\Debug\net6.0\ref\PlatformService.dll
 C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\bin\Debug\net6.0\appsettings.json
+C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\bin\Debug\net6.0\appsettings.Production.json
 C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\bin\Debug\net6.0\PlatformService.exe
 C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\bin\Debug\net6.0\PlatformService.deps.json
 C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\bin\Debug\net6.0\PlatformService.runtimeconfig.json
@@ -159,6 +160,11 @@ C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformSer
 C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\obj\Debug\net6.0\PlatformService.csproj.CoreCompileInputs.cache
 C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\obj\Debug\net6.0\PlatformService.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\obj\Debug\net6.0\PlatformService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\obj\Debug\net6.0\staticwebassets\msbuild.PlatformService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\obj\Debug\net6.0\staticwebassets\msbuild.build.PlatformService.props
+C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PlatformService.props
+C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PlatformService.props
+C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\obj\Debug\net6.0\scopedcss\bundle\PlatformService.styles.css
@@ -168,4 +174,3 @@ C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformSer
 C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\obj\Debug\net6.0\PlatformService.pdb
 C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\obj\Debug\net6.0\PlatformService.genruntimeconfig.cache
 C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\obj\Debug\net6.0\ref\PlatformService.dll
-C:\Users\Phahla\OneDrive\Documents\Udemy\ASP.NET\Microservice Course\PlatformService\PlatformService\bin\Debug\net6.0\appsettings.Production.json

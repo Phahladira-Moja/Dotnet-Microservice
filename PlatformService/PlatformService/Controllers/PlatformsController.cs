@@ -65,6 +65,8 @@ namespace PlatformService.Controllers
                 Console.WriteLine($"--> Could not send synchronously: {ex.Message}");
             }
 
+            // The CreatedAtRoute returns 201 with a way to get the resource. So we give it the name of the Route ( GetPlatformById )
+            // which to return with the result
             return CreatedAtRoute(nameof(GetPlatformById), new { Id = platformReadDto.Id }, platformReadDto);
         }
     }
